@@ -1,3 +1,7 @@
+# Workshop ready version of Sylius Vagrant machine
+
+After installation you will be provided by newest Sylius-Standard version with sample features to implement on your own (features/managing_suppliers). Have fun!
+
 # Description
 This configuration includes following software:
 
