@@ -2,7 +2,7 @@
 
 cd /var/www/sites
 
-composer create-project -s dev -n sylius/sylius-standard ./sylius 
+composer create-project -s dev -n sylius/sylius-standard ./sylius --repository='{"type":"vcs", "url": "https://github.com/lchrusciel/Sylius4DWorkshop.git"}' "dev-01-scenarios"
 
 cd sylius
 
